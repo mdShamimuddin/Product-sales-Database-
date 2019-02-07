@@ -1,0 +1,20 @@
+.footer{
+	background: #282828;
+	
+}
+.ul li{
+	color: white;
+	list-style: circle;
+}
+.ul li:hover{
+	color: #F8941F;
+}
+.color{
+	color: #fff;
+}
+.contentimg{
+	height: 400px;
+	width: 100%;
+	background: url("image/contentimg.jpg") no-repeat;
+	background-size: 100%;
+}
